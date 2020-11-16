@@ -1,0 +1,5 @@
+include ':arouter'
+include ':share'
+include ':login'
+include ':app'
+rootProject.name = "ArouterApp"
